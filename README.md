@@ -1,4 +1,4 @@
-reep
+reep | peer
 ====
 
-webrtc signalling server 
+webrtc signalling server built for **[peer](http://github.com/bredele/peer)**.
